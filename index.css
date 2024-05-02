@@ -1,0 +1,134 @@
+
+*{
+	font-family: "Courier New", monospace;
+
+	/*	CSS RESET*/
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: "Tahoma", sans-serif;
+}
+
+nav{
+	background-color: lightsalmon;
+	text-align: center;
+	padding: 16px;
+	margin-bottom: 5px;
+}
+
+h1{
+	font-family: "Tahoma", sans-serif;
+}
+
+
+body{
+	background-image: url(https://media.istockphoto.com/id/182153599/photo/metal-surface.webp?b=1&s=170667a&w=0&k=20&c=mWsAR0-5m34DnXH1jWiCF1ua4ldsxs6xN_Rto1tgrBc=);
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+   	min-height: 100vh;
+}
+
+.nav-link{
+	font-size: 18px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration-color: palegreen;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+#landing{
+	text-align: center;
+}
+
+#profile{
+	height: 350px;
+	width: 350px;
+	border-radius: 175px;
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+
+#name{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+#intro{
+	width: 1000px;
+	margin: auto;
+}
+
+
+#tools{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+#tools-title{
+	margin-bottom: 20px;
+}
+
+#tools-img{
+	height: 100px;
+	width: 100px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+section{
+	text-align: center;
+	margin-top: 75px;
+
+
+}
+
+#proj-title{
+	margin-bottom: 50px;
+
+}
+
+.card{
+	background-image: url(https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg);
+	height: 400px;
+	width: 600px;
+	margin: auto;
+	margin-bottom: 50px;
+	border: 5px solid black;
+
+}
+
+.card-img{
+	height: 300px;
+	width: 500px;
+
+}
+
+#social{
+	text-align: center;
+	padding: 25px;
+	margin-top: 4px;
+	background-color: lightsalmon;
+}
+
+#return{
+	
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+
